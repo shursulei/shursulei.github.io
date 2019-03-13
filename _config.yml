@@ -2,7 +2,7 @@
 permalink:           pretty
 
 # Setup
-title:               Progress
+title:               shursulei's blog
 tagline:             A responsive blog theme that illustrates reading progress. Suited for continous reading.
 url:                 http://alexanderussell.github.io
 baseurl:             /progress-for-jekyll
@@ -10,7 +10,7 @@ analytics_id:
 
 # Owner/author information
 owner:
-  name:           Alex Russell
+  name:           shursulei
   avatar:         avatar.png
   bio:            "Designer."
   email:          alex@collectivelymade.com
